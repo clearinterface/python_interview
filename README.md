@@ -7,7 +7,6 @@ Review the CSV file attached, process it and save it into a database of your cho
 
 The current phone number field contains "-". Please remove all "-" using a method in your code.
 
-
 ### Question 2
 
 Check to make sure the zip code has 5 digit. If less than 5 digit, append a 0 to it. 
@@ -15,5 +14,5 @@ Check to make sure the zip code has 5 digit. If less than 5 digit, append a 0 to
 
 ### Question 3
 
-How would you check the email field contains valid email address?
+How would you check the email field contains valid email address? Please show in new method on how to check for valid email.
 
